@@ -2,23 +2,6 @@
     Fill: =RGBA(0, 125, 65, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
-    Image3_4 As image:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =239
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =329
-        X: =150
-        Y: =369
-        ZIndex: =2
-
     Button8_16 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -42,8 +25,8 @@
         Size: =24
         Text: ="Audiolibros"
         Width: =280
-        X: =26
-        Y: =680
+        X: =175
+        Y: =326
         ZIndex: =3
 
     Button8_18 As button:
@@ -69,8 +52,8 @@
         Size: =24
         Text: ="Libros"
         Width: =280
-        X: =326
-        Y: =680
+        X: =175
+        Y: =508
         ZIndex: =5
 
     Button8_19 As button:
@@ -97,33 +80,6 @@
         Text: ="Videos"
         Width: =280
         X: =175
-        Y: =828
+        Y: =706
         ZIndex: =6
-
-    TextInput2_4 As text:
-        BorderColor: =RGBA(245, 245, 245, 1)
-        BorderThickness: =2
-        Color: =RGBA(50, 49, 48, 1)
-        Default: ="Entrada de texto"
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        DisabledFill: =RGBA(242, 242, 241, 0)
-        FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
-        Height: =70
-        HoverBorderColor: =RGBA(16, 110, 190, 1)
-        HoverColor: =RGBA(50, 49, 48, 1)
-        HoverFill: =RGBA(255, 255, 255, 1)
-        PressedBorderColor: =RGBA(0, 120, 212, 1)
-        PressedColor: =RGBA(50, 49, 48, 1)
-        PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =21
-        Width: =560
-        X: =46
-        Y: =226
-        ZIndex: =7
 

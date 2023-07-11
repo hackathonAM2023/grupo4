@@ -1,4 +1,4 @@
-Screen6 As screen:
+Books_1 As screen:
     Fill: =RGBA(0, 125, 65, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
