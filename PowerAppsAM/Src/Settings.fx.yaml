@@ -70,7 +70,7 @@ Settings As screen:
         Size: =21
         Width: =560
         X: =20
-        Y: =372
+        Y: =242
         ZIndex: =5
 
     TextInput9 As text:
@@ -97,7 +97,7 @@ Settings As screen:
         Size: =21
         Width: =560
         X: =20
-        Y: =480
+        Y: =350
         ZIndex: =7
 
     TextInput10 As text:
@@ -124,7 +124,7 @@ Settings As screen:
         Size: =21
         Width: =560
         X: =80
-        Y: =599
+        Y: =459
         ZIndex: =8
 
     Icon3 As icon.Leave:
@@ -142,6 +142,33 @@ Settings As screen:
         PressedColor: =RGBA(16, 110, 190, 1)
         PressedFill: =RGBA(0, 0, 0, 0)
         X: =20
-        Y: =599
+        Y: =465
         ZIndex: =9
+
+    TextInput8 As text:
+        BorderColor: =RGBA(245, 245, 245, 1)
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        Default: ="Settings"
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        DisabledFill: =RGBA(242, 242, 241, 0)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        Height: =84
+        HoverBorderColor: =RGBA(16, 110, 190, 1)
+        HoverColor: =RGBA(50, 49, 48, 1)
+        HoverFill: =RGBA(255, 255, 255, 1)
+        PressedBorderColor: =RGBA(0, 120, 212, 1)
+        PressedColor: =RGBA(50, 49, 48, 1)
+        PressedFill: =RGBA(255, 255, 255, 1)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =45
+        Width: =523
+        X: =98
+        Y: =34
+        ZIndex: =10
 
