@@ -9,15 +9,15 @@ Logo As screen:
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledFill: =RGBA(0, 0, 0, 0)
         FocusedBorderThickness: =4
-        Height: =602
+        Height: =712
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
-        Image: ='Logo Moda Tipográfico Verde Aesthetic'
+        Image: ='2'
         OnSelect: =Navigate('Inicio o Registro',Transition.Pop)
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =489
-        X: =58
-        Y: =250
+        Width: =535
+        X: =52
+        Y: =206
         ZIndex: =1
 
