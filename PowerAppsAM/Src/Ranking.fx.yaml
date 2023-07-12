@@ -2,24 +2,6 @@ Ranking As screen:
     Fill: =RGBA(0, 125, 65, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
-    Label2 As label:
-        Align: =Align.Center
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        Color: =RGBA(50, 49, 48, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.Georgia
-        Height: =70
-        Size: =24
-        Text: ="RANKING"
-        Width: =560
-        X: =37
-        Y: =155
-        ZIndex: =1
-
     Icon4 As icon.AddUser:
         BorderColor: =RGBA(0, 0, 0, 0)
         Color: =RGBA(0, 120, 212, 1)
@@ -55,24 +37,6 @@ Ranking As screen:
         X: =53
         Y: =510
         ZIndex: =3
-
-    Icon6 As icon.AddUser:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        Color: =RGBA(0, 120, 212, 1)
-        DisabledBorderColor: =RGBA(245, 245, 245, 1)
-        DisabledColor: =RGBA(225, 223, 221, 1)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(16, 110, 190, 1)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Icon: =Icon.AddUser
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedColor: =RGBA(16, 110, 190, 1)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        X: =53
-        Y: =628
-        ZIndex: =4
 
     Icon7 As icon.AddUser:
         BorderColor: =RGBA(0, 0, 0, 0)
