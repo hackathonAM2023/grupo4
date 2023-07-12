@@ -97,6 +97,7 @@
     "Label3_1": 36,
     "Label3_3": 31,
     "Label3_4": 32,
+    "Label4": 165,
     "Label5": 48,
     "Label5_1": 50,
     "Label5_2": 52,
@@ -128,6 +129,7 @@
     "Rectangle2_3": 81,
     "Rectangle2_4": 162,
     "Rectangle2_5": 163,
+    "Rectangle2_6": 164,
     "Rectangle3": 22,
     "Rectangle5": 103,
     "registro": 107,
@@ -162,12 +164,11 @@
     "TextInput5": 124,
     "TextInput6": 148,
     "TextInput7": 126,
-    "TextInput8": 123,
     "TextInput9": 127
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/12/2023 15:26:43",
+  "HeaderLastSavedDateTimeUTC": "07/12/2023 15:28:31",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "17fb259e-eb76-437e-b662-7de368c14309": "\"/providers/microsoft.powerapps/apis/shared_office365users/connections/bb8a3619339c416595e311daa7ee1a0d\""
@@ -324,6 +325,7 @@
     "Label3_1": {},
     "Label3_3": {},
     "Label3_4": {},
+    "Label4": {},
     "Label5": {},
     "Label5_1": {},
     "Label5_2": {},
@@ -355,6 +357,7 @@
     "Rectangle2_3": {},
     "Rectangle2_4": {},
     "Rectangle2_5": {},
+    "Rectangle2_6": {},
     "Rectangle3": {},
     "Rectangle5": {},
     "registro": {},
@@ -389,7 +392,6 @@
     "TextInput5": {},
     "TextInput6": {},
     "TextInput7": {},
-    "TextInput8": {},
     "TextInput9": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
@@ -490,6 +492,7 @@
     "Label3_1": 67,
     "Label3_3": 62,
     "Label3_4": 63,
+    "Label4": 0,
     "Label5": 79,
     "Label5_1": 81,
     "Label5_2": 83,
@@ -521,6 +524,7 @@
     "Rectangle2_3": 112,
     "Rectangle2_4": 45,
     "Rectangle2_5": 45,
+    "Rectangle2_6": 45,
     "Rectangle3": 53,
     "Rectangle5": 134,
     "registro": 138,
@@ -555,7 +559,6 @@
     "TextInput5": 155,
     "TextInput6": 21,
     "TextInput7": 157,
-    "TextInput8": 154,
     "TextInput9": 158
   },
   "ResourcesJsonIndices": {
@@ -587,7 +590,7 @@
       "icon": 14,
       "image": 12,
       "label": 32,
-      "rectangle": 9,
+      "rectangle": 10,
       "screen": 21,
       "star": 15,
       "text": 16
