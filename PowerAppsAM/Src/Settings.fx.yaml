@@ -1,23 +1,6 @@
 Settings As screen:
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
-    Label2 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        Color: =RGBA(50, 49, 48, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
-        Height: =70
-        Size: =40
-        Text: ="Settings"
-        Width: =533
-        X: =107
-        Y: =28
-        ZIndex: =1
-
     TextInput5 As text:
         BorderColor: =RGBA(245, 245, 245, 1)
         BorderThickness: =2
