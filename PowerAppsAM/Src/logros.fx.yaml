@@ -110,24 +110,6 @@ logros As screen:
         Y: =576
         ZIndex: =7
 
-    Label1 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        Color: =RGBA(150, 150, 38, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.Verdana
-        FontWeight: =FontWeight.Bold
-        Height: =70
-        Size: =30
-        Text: ="Logros"
-        Width: =560
-        X: =40
-        Y: =160
-        ZIndex: =8
-
     Label5_6 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
