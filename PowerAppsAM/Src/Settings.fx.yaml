@@ -21,7 +21,7 @@ Settings As screen:
     TextInput5 As text:
         BorderColor: =RGBA(245, 245, 245, 1)
         BorderThickness: =2
-        Color: =RGBA(50, 49, 48, 1)
+        Color: =RGBA(0, 0, 0, 1)
         Default: ="Cuentas"
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(161, 159, 157, 1)
@@ -42,7 +42,7 @@ Settings As screen:
         Size: =21
         Width: =560
         X: =20
-        Y: =140
+        Y: =142
         ZIndex: =2
 
     Icon6 As icon.BackArrow:
@@ -114,35 +114,8 @@ Settings As screen:
         Size: =21
         Width: =560
         X: =20
-        Y: =346
+        Y: =372
         ZIndex: =5
-
-    TextInput8 As text:
-        BorderColor: =RGBA(245, 245, 245, 1)
-        BorderThickness: =2
-        Color: =RGBA(50, 49, 48, 1)
-        Default: ="Valoranos"
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        DisabledFill: =RGBA(242, 242, 241, 0)
-        FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
-        Height: =70
-        HoverBorderColor: =RGBA(16, 110, 190, 1)
-        HoverColor: =RGBA(50, 49, 48, 1)
-        HoverFill: =RGBA(255, 255, 255, 1)
-        PressedBorderColor: =RGBA(0, 120, 212, 1)
-        PressedColor: =RGBA(50, 49, 48, 1)
-        PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =21
-        Width: =560
-        X: =20
-        Y: =450
-        ZIndex: =6
 
     TextInput9 As text:
         BorderColor: =RGBA(245, 245, 245, 1)
@@ -168,14 +141,14 @@ Settings As screen:
         Size: =21
         Width: =560
         X: =20
-        Y: =560
+        Y: =480
         ZIndex: =7
 
     TextInput10 As text:
         BorderColor: =RGBA(245, 245, 245, 1)
         BorderThickness: =2
         Color: =RGBA(50, 49, 48, 1)
-        Default: ="Entrada de texto"
+        Default: ="Cerrar sesión"
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(161, 159, 157, 1)
         DisabledFill: =RGBA(242, 242, 241, 0)
@@ -194,7 +167,25 @@ Settings As screen:
         RadiusTopRight: =0
         Size: =21
         Width: =560
-        X: =20
-        Y: =663
+        X: =80
+        Y: =599
         ZIndex: =8
+
+    Icon3 As icon.Leave:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        Color: =RGBA(0, 120, 212, 1)
+        DisabledBorderColor: =RGBA(245, 245, 245, 1)
+        DisabledColor: =RGBA(225, 223, 221, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(16, 110, 190, 1)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.Leave
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =RGBA(16, 110, 190, 1)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        X: =20
+        Y: =599
+        ZIndex: =9
 
