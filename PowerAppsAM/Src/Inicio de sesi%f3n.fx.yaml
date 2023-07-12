@@ -1,6 +1,5 @@
 "'Inicio de sesión' As screen":
     BackgroundImage: =
-    Fill: =RGBA(0, 77, 41, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
     Label6 As label:
@@ -21,26 +20,8 @@
         Y: =697
         ZIndex: =2
 
-    Label1 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        Color: =RGBA(0, 0, 0, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        Fill: =RGBA(187, 221, 140, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
-        Height: =70
-        Size: =21
-        Text: ="Username"
-        Width: =560
-        X: =45
-        Y: =519
-        ZIndex: =3
-
     TextInput1 As text:
-        BorderColor: =RGBA(245, 245, 245, 1)
+        BorderColor: =RGBA(0, 125, 65, 1)
         BorderThickness: =2
         Color: =RGBA(50, 49, 48, 1)
         Default: ="Entrada de texto"
@@ -64,7 +45,7 @@
         Size: =21
         Width: =560
         X: =45
-        Y: =627
+        Y: =785
         ZIndex: =4
 
     Button1 As button:
@@ -73,25 +54,25 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(161, 159, 157, 1)
         DisabledFill: =RGBA(242, 242, 241, 0)
-        Fill: =RGBA(99, 139, 44, 1)
+        Fill: =RGBA(0, 125, 65, 1)
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
-        Height: =70
+        Height: =81
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =RGBA(16, 110, 190, 1)
-        PressedBorderColor: =RGBA(0, 69, 120, 1)
+        PressedBorderColor: =RGBA(0, 125, 65, 1)
         PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =RGBA(16, 110, 190, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
+        PressedFill: =RGBA(0, 77, 41, 1)
+        RadiusBottomLeft: =80
+        RadiusBottomRight: =80
+        RadiusTopLeft: =80
+        RadiusTopRight: =80
         Size: =24
         Text: ="Inicia Sesión"
-        Width: =280
-        X: =169
-        Y: =861
+        Width: =327
+        X: =161
+        Y: =959
         ZIndex: =5
 
     Image2_1 As image:
@@ -101,14 +82,131 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledFill: =RGBA(0, 0, 0, 0)
         FocusedBorderThickness: =4
-        Height: =375
+        Height: =425
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
-        Image: ='klwl.'
+        Image: ='Logo Moda Tipográfico Verde Aesthetic (1)'
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =385
-        X: =110
-        Y: =94
+        Width: =439
+        X: =105
+        Y: =55
         ZIndex: =6
+
+    Label3 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        Size: =21
+        Text: ="NAME"
+        Width: =560
+        X: =45
+        Y: =553
+        ZIndex: =7
+
+    Label3_1 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        Size: =21
+        Text: ="PASSWORD"
+        Width: =560
+        X: =44
+        Y: =715
+        ZIndex: =8
+
+    Label7 As label:
+        BorderColor: =RGBA(0, 125, 65, 1)
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        Height: =70
+        Size: =21
+        Text: ="Sofía Lombardi"
+        Width: =560
+        X: =45
+        Y: =627
+        ZIndex: =9
+
+    Label3_3 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        Size: =30
+        Text: ="Login"
+        Width: =128
+        X: =263
+        Y: =444
+        ZIndex: =11
+
+    Label3_4 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        Height: =70
+        Size: =15
+        Text: ="Sign In to continue"
+        Width: =377
+        X: =228
+        Y: =480
+        ZIndex: =12
+
+    Button9 As button:
+        Align: =Align.Right
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        DisabledFill: =RGBA(242, 242, 241, 0)
+        Fill: =RGBA(0, 0, 0, 0)
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        HoverBorderColor: =RGBA(0, 77, 41, 1)
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =RGBA(0, 77, 41, 1)
+        PressedBorderColor: =RGBA(0, 77, 41, 1)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(0, 77, 41, 1)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =15
+        Text: ="FROGET PASSWORD"
+        Underline: =true
+        Width: =280
+        X: =325
+        Y: =855
+        ZIndex: =13
 
