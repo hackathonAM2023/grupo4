@@ -1,5 +1,4 @@
 Materias As screen:
-    Fill: =RGBA(0, 125, 65, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
     Button4 As button:
@@ -11,7 +10,7 @@ Materias As screen:
         Fill: =RGBA(0, 120, 212, 1)
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
-        Height: =70
+        Height: =153
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =RGBA(16, 110, 190, 1)
@@ -38,7 +37,7 @@ Materias As screen:
         Fill: =RGBA(0, 120, 212, 1)
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
-        Height: =70
+        Height: =153
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =RGBA(16, 110, 190, 1)
@@ -65,7 +64,7 @@ Materias As screen:
         Fill: =RGBA(0, 120, 212, 1)
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
-        Height: =70
+        Height: =159
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =RGBA(16, 110, 190, 1)
@@ -80,7 +79,7 @@ Materias As screen:
         Text: ="Matemática"
         Width: =280
         X: =340
-        Y: =438
+        Y: =349
         ZIndex: =3
 
     Button7 As button:
@@ -92,7 +91,7 @@ Materias As screen:
         Fill: =RGBA(0, 120, 212, 1)
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
-        Height: =70
+        Height: =159
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =RGBA(16, 110, 190, 1)
@@ -107,7 +106,7 @@ Materias As screen:
         Text: ="Geografía"
         Width: =280
         X: =23
-        Y: =438
+        Y: =349
         ZIndex: =4
 
     Button4_1 As button:
@@ -119,7 +118,7 @@ Materias As screen:
         Fill: =RGBA(0, 120, 212, 1)
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
-        Height: =70
+        Height: =156
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =RGBA(16, 110, 190, 1)
@@ -134,7 +133,7 @@ Materias As screen:
         Text: ="Química"
         Width: =280
         X: =178
-        Y: =668
+        Y: =752
         ZIndex: =5
 
     Label8 As label:
@@ -145,12 +144,13 @@ Materias As screen:
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(161, 159, 157, 1)
         FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
+        Font: =Font.'Lato Black'
+        FontWeight: =FontWeight.Bold
         Height: =70
-        Size: =21
-        Text: ="Subjects"
+        Size: =40
+        Text: ="SUBJECT"
         Width: =560
         X: =23
-        Y: =203
+        Y: =232
         ZIndex: =6
 
