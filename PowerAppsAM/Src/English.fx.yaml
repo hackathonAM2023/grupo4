@@ -1,5 +1,4 @@
 English As screen:
-    Fill: =RGBA(0, 125, 65, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
     TextInput2_2 As text:
@@ -10,6 +9,7 @@ English As screen:
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(161, 159, 157, 1)
         DisabledFill: =RGBA(242, 242, 241, 0)
+        Fill: =RGBA(230, 230, 230, 1)
         FocusedBorderThickness: =4
         Font: =Font.'Segoe UI'
         Height: =70
@@ -153,4 +153,17 @@ English As screen:
         X: =26
         Y: =823
         ZIndex: =6
+
+    Rectangle2_1 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledFill: =RGBA(161, 159, 157, 1)
+        Fill: =RGBA(54, 176, 75, 1)
+        FocusedBorderThickness: =4
+        Height: =89
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =640
+        ZIndex: =7
 
