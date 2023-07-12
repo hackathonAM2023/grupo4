@@ -32,6 +32,8 @@ registro As screen:
         HoverBorderColor: =RGBA(0, 77, 41, 1)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =RGBA(0, 77, 41, 1)
+        OnSelect: |
+            =Navigate(Materias,ScreenTransition.Fade)
         PressedBorderColor: =RGBA(0, 77, 41, 1)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =RGBA(0, 77, 41, 1)
