@@ -1,5 +1,4 @@
 Ranking As screen:
-    Fill: =RGBA(0, 125, 65, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
     Icon4 As icon.AddUser:
@@ -58,7 +57,7 @@ Ranking As screen:
 
     Star1 As star:
         BorderColor: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(0, 0, 0, 1)
         Height: =60
         Width: =65
         X: =533
@@ -67,7 +66,7 @@ Ranking As screen:
 
     Star1_1 As star:
         BorderColor: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(0, 0, 0, 1)
         Height: =60
         Width: =65
         X: =455
@@ -76,7 +75,7 @@ Ranking As screen:
 
     Star1_2 As star:
         BorderColor: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(0, 0, 0, 1)
         Height: =60
         Width: =65
         X: =374
@@ -85,7 +84,7 @@ Ranking As screen:
 
     Star1_3 As star:
         BorderColor: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(0, 0, 0, 1)
         Height: =60
         Width: =65
         X: =285
@@ -94,7 +93,7 @@ Ranking As screen:
 
     Star1_4 As star:
         BorderColor: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(0, 0, 0, 1)
         Height: =60
         Width: =65
         X: =533
@@ -103,7 +102,7 @@ Ranking As screen:
 
     Star1_5 As star:
         BorderColor: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(0, 0, 0, 1)
         Height: =60
         Width: =65
         X: =209
@@ -112,7 +111,7 @@ Ranking As screen:
 
     Star1_6 As star:
         BorderColor: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(0, 0, 0, 1)
         Height: =60
         Width: =65
         X: =374
@@ -121,7 +120,7 @@ Ranking As screen:
 
     Star1_7 As star:
         BorderColor: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(0, 0, 0, 1)
         Height: =60
         Width: =65
         X: =455
@@ -130,7 +129,7 @@ Ranking As screen:
 
     Star1_8 As star:
         BorderColor: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(0, 0, 0, 1)
         Height: =60
         Width: =65
         X: =533
@@ -139,7 +138,7 @@ Ranking As screen:
 
     Star1_9 As star:
         BorderColor: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(0, 0, 0, 1)
         Height: =60
         Width: =65
         X: =285
@@ -148,7 +147,7 @@ Ranking As screen:
 
     Star1_10 As star:
         BorderColor: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(0, 0, 0, 1)
         Height: =60
         Width: =65
         X: =455
@@ -157,7 +156,7 @@ Ranking As screen:
 
     Star1_12 As star:
         BorderColor: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(0, 0, 0, 1)
         Height: =60
         Width: =65
         X: =374
@@ -166,7 +165,7 @@ Ranking As screen:
 
     Star1_13 As star:
         BorderColor: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(0, 0, 0, 1)
         Height: =60
         Width: =65
         X: =533
@@ -175,7 +174,7 @@ Ranking As screen:
 
     Star1_14 As star:
         BorderColor: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(0, 0, 0, 1)
         Height: =60
         Width: =65
         X: =455
@@ -184,7 +183,7 @@ Ranking As screen:
 
     Star1_11 As star:
         BorderColor: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(0, 0, 0, 1)
         Height: =60
         Width: =65
         X: =533
@@ -308,22 +307,9 @@ Ranking As screen:
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =604
-        X: =16
+        X: =18
         Y: =833
         ZIndex: =29
-
-    Rectangle2_3 As rectangle:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledFill: =RGBA(161, 159, 157, 1)
-        Fill: =RGBA(54, 176, 75, 1)
-        FocusedBorderThickness: =4
-        Height: =89
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =640
-        ZIndex: =30
 
     Icon5_1 As icon.AddUser:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -342,4 +328,54 @@ Ranking As screen:
         X: =53
         Y: =630
         ZIndex: =31
+
+    Rectangle2_14 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledFill: =RGBA(161, 159, 157, 1)
+        Fill: =RGBA(0, 125, 65, 1)
+        FocusedBorderThickness: =4
+        Height: =89
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =640
+        ZIndex: =32
+
+    Icon12_2 As icon.Hamburger:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        Color: =RGBA(255, 255, 255, 1)
+        DisabledBorderColor: =RGBA(245, 245, 245, 1)
+        DisabledColor: =RGBA(225, 223, 221, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(16, 110, 190, 1)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.Hamburger
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =RGBA(16, 110, 190, 1)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        X: =26
+        Y: =12
+        ZIndex: =33
+
+    Icon6_13 As icon.BackArrow:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        Color: =RGBA(255, 255, 255, 1)
+        DisabledBorderColor: =RGBA(245, 245, 245, 1)
+        DisabledColor: =RGBA(225, 223, 221, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(0, 77, 41, 1)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.BackArrow
+        OnSelect: =Navigate('Inicio o Registro',ScreenTransition.Fade)
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =RGBA(16, 110, 190, 1)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        X: =117
+        Y: =12
+        ZIndex: =34
 

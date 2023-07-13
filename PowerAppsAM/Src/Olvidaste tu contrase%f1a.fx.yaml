@@ -1,3 +1,16 @@
 "'Olvidaste tu contraseña' As screen":
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
+    Rectangle2_13 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledFill: =RGBA(161, 159, 157, 1)
+        Fill: =RGBA(0, 125, 65, 1)
+        FocusedBorderThickness: =4
+        Height: =89
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =640
+        ZIndex: =1
+
