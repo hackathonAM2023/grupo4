@@ -155,6 +155,7 @@ Materias As screen:
         Height: =70
         Size: =40
         Text: ="SUBJECT"
+        Underline: =true
         Width: =560
         X: =23
         Y: =232
