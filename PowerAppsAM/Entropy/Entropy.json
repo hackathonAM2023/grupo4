@@ -96,6 +96,7 @@
     "Icon6_4": 223,
     "Icon6_5": 224,
     "Icon6_6": 225,
+    "Icon6_7": 226,
     "Icon7": 65,
     "Icon8": 40,
     "Icon9": 44,
@@ -204,7 +205,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/13/2023 13:29:52",
+  "HeaderLastSavedDateTimeUTC": "07/13/2023 13:30:09",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "17fb259e-eb76-437e-b662-7de368c14309": "\"/providers/microsoft.powerapps/apis/shared_office365users/connections/57bfab1954304a4a8d6a44165e7d9a52\""
@@ -360,6 +361,7 @@
     "Icon6_4": {},
     "Icon6_5": {},
     "Icon6_6": {},
+    "Icon6_7": {},
     "Icon7": {},
     "Icon8": {},
     "Icon9": {},
@@ -563,6 +565,7 @@
     "Icon6_4": 4,
     "Icon6_5": 4,
     "Icon6_6": 4,
+    "Icon6_7": 4,
     "Icon7": 155,
     "Icon8": 116,
     "Icon9": 120,
@@ -695,7 +698,7 @@
     "ControlCount": {
       "button": 65,
       "circle": 2,
-      "icon": 30,
+      "icon": 31,
       "image": 16,
       "label": 34,
       "rectangle": 16,
