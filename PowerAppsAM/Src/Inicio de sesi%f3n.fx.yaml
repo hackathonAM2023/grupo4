@@ -60,7 +60,7 @@
         Height: =81
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =RGBA(16, 110, 190, 1)
+        HoverFill: =RGBA(0, 77, 41, 1)
         OnSelect: =Navigate(Materias,ScreenTransition.Fade)
         PressedBorderColor: =RGBA(0, 125, 65, 1)
         PressedColor: =RGBA(255, 255, 255, 1)
@@ -101,6 +101,7 @@
         Color: =RGBA(50, 49, 48, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(161, 159, 157, 1)
+        DisplayMode: =DisplayMode.View
         FocusedBorderThickness: =4
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Bold
@@ -119,6 +120,7 @@
         Color: =RGBA(50, 49, 48, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(161, 159, 157, 1)
+        DisplayMode: =DisplayMode.View
         FocusedBorderThickness: =4
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Bold
@@ -219,7 +221,7 @@
         DisabledFill: =RGBA(0, 0, 0, 0)
         FocusedBorderThickness: =4
         HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(16, 110, 190, 1)
+        HoverColor: =RGBA(0, 77, 41, 1)
         HoverFill: =RGBA(0, 0, 0, 0)
         Icon: =Icon.BackArrow
         OnSelect: =Navigate('Inicio o Registro',ScreenTransition.Fade)
@@ -239,7 +241,7 @@
         FocusedBorderThickness: =4
         Height: =50
         HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(16, 110, 190, 1)
+        HoverColor: =RGBA(0, 77, 41, 1)
         HoverFill: =RGBA(0, 0, 0, 0)
         Icon: =Icon.Hide
         PressedBorderColor: =RGBA(0, 0, 0, 0)

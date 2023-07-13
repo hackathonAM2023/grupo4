@@ -44,8 +44,8 @@ registro As screen:
         Size: =24
         Text: ="Sign Up"
         Width: =280
-        X: =162
-        Y: =990
+        X: =181
+        Y: =995
         ZIndex: =6
 
     Label9 As label:
@@ -229,7 +229,7 @@ registro As screen:
         DisabledFill: =RGBA(0, 0, 0, 0)
         FocusedBorderThickness: =4
         HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(16, 110, 190, 1)
+        HoverColor: =RGBA(0, 77, 41, 1)
         HoverFill: =RGBA(0, 0, 0, 0)
         Icon: =Icon.BackArrow
         OnSelect: =Navigate('Inicio o Registro',ScreenTransition.Fade)

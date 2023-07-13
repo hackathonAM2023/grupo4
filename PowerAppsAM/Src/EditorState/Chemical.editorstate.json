@@ -56,7 +56,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Button8_4",
-      "ParentIndex": 2,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -294,7 +294,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Button8_5",
-      "ParentIndex": 5,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -532,7 +532,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Button8_6",
-      "ParentIndex": 3,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -770,7 +770,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Button8_7",
-      "ParentIndex": 4,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1070,7 +1070,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Image3_1",
-      "ParentIndex": 1,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1258,7 +1258,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle2_2",
-      "ParentIndex": 1,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1392,7 +1392,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "TextInput2_1",
-      "ParentIndex": 0,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
