@@ -142,25 +142,6 @@ Materias As screen:
         Y: =752
         ZIndex: =5
 
-    Label8 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        Color: =RGBA(50, 49, 48, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.'Lato Black'
-        FontWeight: =FontWeight.Bold
-        Height: =70
-        Size: =40
-        Text: ="SUBJECT"
-        Underline: =true
-        Width: =560
-        X: =23
-        Y: =232
-        ZIndex: =6
-
     Rectangle2_12 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -172,6 +153,25 @@ Materias As screen:
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =640
+        ZIndex: =6
+
+    Label8 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Lato Black'
+        FontWeight: =FontWeight.Bold
+        Height: =77
+        Size: =40
+        Text: ="SUBJECT"
+        Underline: =true
+        Width: =303
+        X: =120
+        Y: =6
         ZIndex: =7
 
     Icon12_1 As icon.Hamburger:
