@@ -1,6 +1,19 @@
 Math As screen:
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
+    Rectangle2_7 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledFill: =RGBA(161, 159, 157, 1)
+        Fill: =RGBA(0, 125, 65, 1)
+        FocusedBorderThickness: =4
+        Height: =89
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =640
+        ZIndex: =1
+
     TextInput2 As text:
         BorderColor: =RGBA(0, 125, 65, 1)
         BorderThickness: =2
@@ -26,7 +39,7 @@ Math As screen:
         Width: =560
         X: =40
         Y: =203
-        ZIndex: =1
+        ZIndex: =2
 
     Image3 As image:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -43,7 +56,7 @@ Math As screen:
         Width: =329
         X: =155
         Y: =357
-        ZIndex: =2
+        ZIndex: =3
 
     Button8 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -70,7 +83,7 @@ Math As screen:
         Width: =280
         X: =26
         Y: =680
-        ZIndex: =3
+        ZIndex: =4
 
     Button8_1 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -97,7 +110,7 @@ Math As screen:
         Width: =280
         X: =338
         Y: =823
-        ZIndex: =4
+        ZIndex: =5
 
     Button8_2 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -124,7 +137,7 @@ Math As screen:
         Width: =280
         X: =338
         Y: =680
-        ZIndex: =5
+        ZIndex: =6
 
     Button8_3 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -151,7 +164,7 @@ Math As screen:
         Width: =280
         X: =26
         Y: =823
-        ZIndex: =6
+        ZIndex: =7
 
     Icon13 As icon.Search:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -169,7 +182,7 @@ Math As screen:
         PressedFill: =RGBA(0, 0, 0, 0)
         X: =522
         Y: =209
-        ZIndex: =7
+        ZIndex: =8
 
     Button8_17 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -196,7 +209,7 @@ Math As screen:
         Width: =280
         X: =338
         Y: =961
-        ZIndex: =8
+        ZIndex: =9
 
     Button8_20 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -223,5 +236,23 @@ Math As screen:
         Width: =280
         X: =26
         Y: =961
-        ZIndex: =9
+        ZIndex: =10
+
+    Icon10 As icon.Hamburger:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        Color: =RGBA(255, 255, 255, 1)
+        DisabledBorderColor: =RGBA(245, 245, 245, 1)
+        DisabledColor: =RGBA(225, 223, 221, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(16, 110, 190, 1)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.Hamburger
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =RGBA(16, 110, 190, 1)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        X: =26
+        Y: =12
+        ZIndex: =11
 
