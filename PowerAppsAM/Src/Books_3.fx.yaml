@@ -1,5 +1,4 @@
 Books_3 As screen:
-    Fill: =RGBA(0, 125, 65, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
     TextInput6 As text:
@@ -10,6 +9,7 @@ Books_3 As screen:
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(161, 159, 157, 1)
         DisabledFill: =RGBA(242, 242, 241, 0)
+        Fill: =RGBA(230, 230, 230, 1)
         FocusedBorderThickness: =4
         Font: =Font.'Segoe UI'
         Height: =70

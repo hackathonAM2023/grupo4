@@ -5,12 +5,12 @@ English As screen:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         BorderThickness: =2
-        DisabledFill: =RGBA(161, 159, 157, 1)
+        DisabledFill: =RGBA(0, 125, 33, 1)
         Fill: =RGBA(0, 125, 65, 1)
         FocusedBorderThickness: =4
         Height: =89
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
+        HoverFill: =RGBA(0, 125, 33, 1)
+        PressedFill: =RGBA(0, 125, 33, 1)
         Width: =640
         ZIndex: =1
 
@@ -242,11 +242,11 @@ English As screen:
         BorderColor: =RGBA(0, 0, 0, 0)
         Color: =RGBA(255, 255, 255, 1)
         DisabledBorderColor: =RGBA(245, 245, 245, 1)
-        DisabledColor: =RGBA(225, 223, 221, 1)
+        DisabledColor: =RGBA(0, 77, 41, 1)
         DisabledFill: =RGBA(0, 0, 0, 0)
         FocusedBorderThickness: =4
         HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(16, 110, 190, 1)
+        HoverColor: =RGBA(0, 77, 41, 1)
         HoverFill: =RGBA(0, 0, 0, 0)
         Icon: =Icon.Hamburger
         PressedBorderColor: =RGBA(0, 0, 0, 0)
@@ -260,7 +260,7 @@ English As screen:
         BorderColor: =RGBA(0, 0, 0, 0)
         Color: =RGBA(255, 255, 255, 1)
         DisabledBorderColor: =RGBA(245, 245, 245, 1)
-        DisabledColor: =RGBA(225, 223, 221, 1)
+        DisabledColor: =RGBA(0, 77, 41, 1)
         DisabledFill: =RGBA(0, 0, 0, 0)
         FocusedBorderThickness: =4
         HoverBorderColor: =RGBA(0, 0, 0, 0)
@@ -280,14 +280,14 @@ English As screen:
         BorderStyle: =BorderStyle.None
         BorderThickness: =2
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 77, 33, 1)
         FocusedBorderThickness: =4
         Height: =72
         HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 77, 41, 1)
         Image: ='user (2)'
         PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 77, 41, 1)
         Width: =60
         X: =558
         Y: =17

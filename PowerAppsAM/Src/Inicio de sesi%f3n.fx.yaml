@@ -214,7 +214,7 @@
         ZIndex: =13
 
     Icon6_2 As icon.BackArrow:
-        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =RGBA(0, 77, 41, 1)
         Color: =RGBA(54, 176, 75, 1)
         DisabledBorderColor: =RGBA(245, 245, 245, 1)
         DisabledColor: =RGBA(225, 223, 221, 1)

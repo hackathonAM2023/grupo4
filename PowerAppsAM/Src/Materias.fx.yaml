@@ -150,8 +150,8 @@ Materias As screen:
         Fill: =RGBA(0, 125, 65, 1)
         FocusedBorderThickness: =4
         Height: =89
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
+        HoverFill: =RGBA(0, 125, 33, 1)
+        PressedFill: =RGBA(0, 125, 33, 1)
         Width: =640
         ZIndex: =6
 
@@ -165,11 +165,11 @@ Materias As screen:
         FocusedBorderThickness: =4
         Font: =Font.'Lato Black'
         FontWeight: =FontWeight.Bold
-        Height: =77
+        Height: =64
         Size: =40
         Text: ="SUBJECT"
         Underline: =true
-        Width: =303
+        Width: =252
         X: =206
         Y: =12
         ZIndex: =7
@@ -182,7 +182,7 @@ Materias As screen:
         DisabledFill: =RGBA(0, 0, 0, 0)
         FocusedBorderThickness: =4
         HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(16, 110, 190, 1)
+        HoverColor: =RGBA(0, 77, 41, 1)
         HoverFill: =RGBA(0, 0, 0, 0)
         Icon: =Icon.Hamburger
         PressedBorderColor: =RGBA(0, 0, 0, 0)
@@ -207,8 +207,8 @@ Materias As screen:
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedColor: =RGBA(16, 110, 190, 1)
         PressedFill: =RGBA(0, 0, 0, 0)
-        X: =102
-        Y: =6
+        X: =116
+        Y: =21
         ZIndex: =9
 
     Image1_3 As image:
@@ -222,7 +222,7 @@ Materias As screen:
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: ='user (2)'
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedBorderColor: =RGBA(0, 77, 41, 1)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =60
         X: =558
